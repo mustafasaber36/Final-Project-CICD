@@ -1,0 +1,4 @@
+Terraform-GCP/.terraform.lock.hcl
+Terraform-GCP/terraform.tfstate.backup
+Terraform-GCP/terraform.tfstate
+Terraform-GCP/.terraform/providers/registry.terraform.io/hashicorp/google/4.42.0/linux_amd64/terraform-provider-google_v4.42.0_x5
