@@ -74,9 +74,9 @@ $ kubectl get nodes
 	sh 'kubectl apply -f ~/workspace/cd/kuberneres/node-deploy.yml -n my-node-app' 
 	sh 'kubectl apply -f ~/workspace/cd/kuberneres/node-service.yml -n my-node-app'
 ```
-![image](./buildingthepipeline1.png)
+![image](./buildingthepipeline.png)
 ![image](./buildingthepipeline2.png)
-![image](./successpipleine.png)
+![image](./successpipline.png)
 ### 7) Getting the external ip of the loadbalancer service 
 
 ![image](./service.png)
