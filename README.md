@@ -76,7 +76,7 @@ $ kubectl get nodes
 ```
 ![image](./buildingthepipeline.png)
 ![image](./buildingthepipeline2.png)
-![image](./successpipline.png)
+![image](./successpipeline.png)
 ### 7) Getting the external ip of the loadbalancer service 
 
 ![image](./service.png)
