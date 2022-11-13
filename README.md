@@ -1,5 +1,5 @@
 # Final-Project-CICD-ITI
-Deploying Nodejs App using Jenkins Pipeline on GKE Created by Terraform
+Deploy Nodejs App using Jenkins Pipeline on GKE Created by Terraform
 # Deploy Nodejs App on GCP Using Kubernetes
 ## The Used Tools
  - Terraform , Docker , Kubernetes , GCP , Jenkins
